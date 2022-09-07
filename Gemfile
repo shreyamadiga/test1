@@ -71,4 +71,3 @@ group :test do
   gem "webdrivers"
 end
 
-gem "stimulus_reflex", "~> 3.4"
